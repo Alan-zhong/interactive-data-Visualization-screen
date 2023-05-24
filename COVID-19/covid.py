@@ -19,9 +19,9 @@ from pyecharts.charts import Map, Timeline, Bar, Line
 from pyecharts.components import Table
 from pyecharts.options import ComponentTitleOpts
 ###############数据加载##########################
-confirmed_data = pd.read_csv('time_series_covid19_confirmed_global.csv')
-deaths_data = pd.read_csv('time_series_covid19_deaths_global.csv')
-recovered_data = pd.read_csv('time_series_covid19_recovered_global.csv')
+confirmed_data = pd.read_csv('./time_series_covid19_confirmed_global.csv')
+deaths_data = pd.read_csv('./time_series_covid19_deaths_global.csv')
+recovered_data = pd.read_csv('./time_series_covid19_recovered_global.csv')
 
 
 
