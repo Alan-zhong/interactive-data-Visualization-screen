@@ -1,4 +1,6 @@
 # interactive-data-Visualization-screen
+https://alan-zhong-interactive-data-visualization-screen-covid-w2w3rc.streamlit.app/
+
 A Streamlit demo written in Python to interactively visualize COVID-19 trends.
 
 
